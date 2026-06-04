@@ -13,16 +13,15 @@ O projeto foi criado com foco em estudantes e pessoas em início de carreira que
 👉 https://nataliapastre-dev.github.io/educador-financeiro-inteligente/
 
 ---
-
 ## 🚀 Tecnologias utilizadas
 
-- React
-- Vite
-- JavaScript (ES6+)
-- HTML5
-- CSS3
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
----
+- ⚛️ React
+- ⚡ Vite
+- 🟨 JavaScript (ES6+)
+- 🌐 HTML5
+- 🎨 CSS3
 
 ## 🎯 Funcionalidades
 
