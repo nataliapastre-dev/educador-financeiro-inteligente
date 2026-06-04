@@ -1,16 +1,36 @@
-# React + Vite
+# 📘 Educador Financeiro Inteligente
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 💡 Sobre o projeto
 
-Currently, two official plugins are available:
+Este projeto é um **Educador Financeiro Inteligente**, desenvolvido com **React + Vite**, com o objetivo de simular uma aplicação que auxilia usuários no controle de gastos, organização financeira e criação de metas de economia.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+O sistema foi pensado para estudantes, estagiários e profissionais em início de carreira que desejam melhorar sua educação financeira de forma simples e prática.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Tecnologias utilizadas
 
-## Expanding the ESLint configuration
+- React
+- Vite
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎯 Funcionalidades
+
+- Controle de receitas e despesas
+- Visualização de saldo financeiro
+- Dicas de educação financeira
+- Interface simples e responsiva
+- Estrutura preparada para evolução futura (gráficos, login e persistência de dados)
+
+---
+
+## 📂 Como executar o projeto
+
+### 1. Clone o repositório
+
+```bash
+git clone git@github.com:nataliapastre-dev/educador-financeiro-inteligente.git
