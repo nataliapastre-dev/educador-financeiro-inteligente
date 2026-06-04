@@ -1,10 +1,16 @@
 # 📘 Educador Financeiro Inteligente
 
-## 💡 Sobre o projeto
+## 💰 Sobre o projeto
 
-Este projeto é um **Educador Financeiro Inteligente**, desenvolvido com **React + Vite**, com o objetivo de simular uma aplicação que auxilia usuários no controle de gastos, organização financeira e criação de metas de economia.
+O **Educador Financeiro Inteligente** é uma aplicação desenvolvida com **React + Vite**, com o objetivo de auxiliar usuários no controle de despesas, organização financeira e visualização de gastos de forma simples e intuitiva.
 
-O sistema foi pensado para estudantes, estagiários e profissionais em início de carreira que desejam melhorar sua educação financeira de forma simples e prática.
+O projeto foi criado com foco em estudantes e pessoas em início de carreira que desejam melhorar sua educação financeira de forma prática.
+
+---
+
+## 🌐 Acesse o projeto online
+
+👉 https://nataliapastre-dev.github.io/educador-financeiro-inteligente/
 
 ---
 
@@ -20,15 +26,26 @@ O sistema foi pensado para estudantes, estagiários e profissionais em início d
 
 ## 🎯 Funcionalidades
 
-- Controle de receitas e despesas
-- Visualização de saldo financeiro
-- Dicas de educação financeira
-- Interface simples e responsiva
-- Estrutura preparada para evolução futura (gráficos, login e persistência de dados)
+- Adicionar despesas com nome e valor
+- Listar despesas em tempo real
+- Cálculo automático do total de gastos
+- Interface moderna e responsiva
+- Aplicação rápida e leve com Vite
+- Estrutura preparada para melhorias futuras (gráficos, categorias, login)
 
 ---
 
-## 📂 Como executar o projeto
+## 📸 Demonstração
+
+![Preview do projeto](https://i.postimg.cc/y6kLQ1QM/Gemini-Generated-Image-2vmlja2vmlja2vml.png)
+
+---
+
+## 📂 Como executar o projeto localmente
+
+### 1. Clone o repositório
+```bash
+git clone git@github.com:nataliapastre-dev/educador-financeiro-inteligente.git
 
 ### 1. Clone o repositório
 
