@@ -17,7 +17,7 @@ O projeto foi criado com foco em estudantes e pessoas em início de carreira que
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- ⚛️ React
+⚛️ React
 - ⚡ Vite
 - 🟨 JavaScript (ES6+)
 - 🌐 HTML5
