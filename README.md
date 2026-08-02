@@ -16,7 +16,7 @@ O projeto foi criado com foco em estudantes e pessoas em início de carreira que
 
 ## 📸 Demonstração
 
-![Preview do projeto](https://i.postimg.cc/tCJj4D7P/Gemini-Generated-Image-x5o165x5o165x5o1.png)
+<img src="https://i.postimg.cc/tCJj4D7P/Gemini-Generated-Image-x5o165x5o165x5o1.png" alt="Preview do projeto" width="300" />
 
 ---
 
