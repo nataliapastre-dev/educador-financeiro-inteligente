@@ -13,9 +13,12 @@ O projeto foi criado com foco em estudantes e pessoas em início de carreira que
 👉 https://nataliapastre-dev.github.io/educador-financeiro-inteligente/
 
 ---
-## 🚀 Tecnologias utilizadas
 
-Este projeto foi desenvolvido com as seguintes tecnologias:
+## 📸 Demonstração
+
+![Preview do projeto](https://i.postimg.cc/tCJj4D7P/Gemini-Generated-Image-x5o165x5o165x5o1.png)
+
+---
 
 ## 🚀 Tecnologias utilizadas
 
@@ -26,6 +29,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - 🟨 JavaScript (ES6+)
 - 🌐 HTML5
 - 🎨 CSS3
+
+---
 
 ## 🎯 Funcionalidades
 
@@ -38,19 +43,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-## 📸 Demonstração
-
-![Preview do projeto](https://i.postimg.cc/y6kLQ1QM/Gemini-Generated-Image-2vmlja2vmlja2vml.png)
-
----
-
 ## 📂 Como executar o projeto localmente
 
 ### 1. Clone o repositório
-```bash
-git clone git@github.com:nataliapastre-dev/educador-financeiro-inteligente.git
-
-### 1. Clone o repositório
-
 ```bash
 git clone git@github.com:nataliapastre-dev/educador-financeiro-inteligente.git
